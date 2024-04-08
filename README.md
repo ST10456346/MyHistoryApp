@@ -145,21 +145,27 @@ Test your workflows by pushing changes to your repository and observing the acti
 Anon., 2020. Bibliography. [Online] 
 Available at: https://www.biography.com/scientists/isaac-newton
 [Accessed 15 March 2024].
+
 Anon., 2021. Biography. [Online] 
 Available at: https://www.biography.com/political-figures/adolf-hitler
 [Accessed 15 March 2024].
+
 Anon., 2021. Biography. [Online] 
 Available at: https://www.biography.com/musicians/biggie-smalls
 [Accessed 15 March 2024].
+
 Carson, D. L. L. C., 2024. Britannica. [Online] 
 Available at: https://www.britannica.com/biography/Martin-Luther-King-Jr
 [Accessed 18 March 2024].
+
 Editors, T., n.d. TheFamousPeople.com. [Online] 
 Available at: https://www.thefamouspeople.com/profiles/eazy-e-6545.php
 [Accessed 15 March 2024].
+
 Mkhize, V., 2022. BBC News. [Online] 
 Available at: https://www.bbc.com/news/world-africa-60575866
 [Accessed 15 March 2024].
+
 Piccotti, B. e. a. T., 2023. Biography. [Online] 
 Available at: https://www.biography.com/actors/robin-williams
 [Accessed 15 March 2024].

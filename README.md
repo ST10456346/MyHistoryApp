@@ -1,16 +1,20 @@
 Purpose 
+
 An old friend of Jack requested me to build an application. He is a history science-based teacher who is working on a project for a school presentation. 
 He requested for an application where a user will input an age, and generate, then the application would be able to display the user age and information provided with it. 
  
 The purpose of the application is to enhance the students with the necessary skills, tools and knowledge of the greatest people who have ever lived and had an impact in our lives. Basically, it is used for educational purposes. 
 
-Intuitive Design 
-The design is easy to follow as there is not much detail onto the design itself and used all the necessary attention to detail. As to putting more detail would have been a lot more difficult and complicated to understand and read. 
+Intuitive Design
+
+The design is easy to follow as there is not much detail onto the design itself and used all the necessary attention to detail. As to putting more detail would have been a lot more difficult and complicated to understand and read.
+
 Content Prioritization 
  
 Yes, the application has all the necessary interface elements. These content elements are much more important as they are the face of the app, and they would need to interact with the user and the content which would be displayed. The content which is displayed is very important as it would interact with the user and what they would want displayed.
  
-Legible Text Content 
+Legible Text Content
+
 Yes, the font I chose is easier to read and you would normally find the font as a suggested font for many app builders. The font which is an Aptos (body), which displays information easily to read and is gradually exceptional especially under dim light or anywhere in the darkness. 
 White texts are used throughout the buttons as their functions are to generate and clear information as they should be seen clearly and visibly. 
  
@@ -18,10 +22,12 @@ Make Interface Elements Cleary Visible
 Yes, the user would be able to see all components on the screen and there is enough padding. The app is well spaced, and it has enough room to display the information and the user to see all the functionality the application does. The app would not be able to confuse the user because it has an exceptional and it is clean interface. 
  
 Hand position Controls
+
 No, the buttons are widely spaced with bold text for the user to quickly notice and could interact with them, which they basically display the functionality of each one of them. They are widely spaced so that the user cannot clash the buttons or make a mistake of pressing the incorrect button that would greatly process the incorrect information on the application. Images  
 The images I chose are those of the application which would correspond with the age the user would be inputting. The images selected are those that the application would specifically want to display, when entering the age of the corresponding character and the information about the image. The images serve as a clear and additional indication of who the app is specially displaying. 
 
  GitHub Repository
+ 
 1. Create a New GitHub Repository:
 Go to the GitHub website (https://github.com/) and sign in to your account.
 Click on the "+" icon in the top right corner and select "New repository".
